@@ -1,0 +1,22 @@
+{
+  "name": "com.gamesoft.navigation",
+  "displayName": "Game Soft Navigation Manager",
+  "version": "1.0.0",
+  "description": "Support game package",
+  "category": "GameSoft",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VTeselkin/navigation.git"
+  },
+  "keywords": [
+    "Unity",
+    "UPM"
+  ],
+  "dependencies": {
+    "com.gamesoft.windows": "1.0.0",
+    "com.gamesoft.zenject": "9.2.0",
+    "com.gamesoft.tools": "1.0.8"
+  },
+  "author": "VTeselkin",
+  "license": "UNLICENSED"
+}
