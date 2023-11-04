@@ -1,7 +1,7 @@
 {
   "name": "com.gamesoft.navigation",
   "displayName": "Game Soft Navigation Manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Support game package",
   "category": "GameSoft",
   "repository": {
@@ -14,8 +14,8 @@
   ],
   "dependencies": {
     "com.gamesoft.windows": "1.0.0",
-    "com.gamesoft.zenject": "9.2.0",
-    "com.gamesoft.tools": "1.0.8"
+    "com.gamesoft.zenject": "9.2.2",
+    "com.gamesoft.tools": "1.0.9"
   },
   "author": "VTeselkin",
   "license": "UNLICENSED"

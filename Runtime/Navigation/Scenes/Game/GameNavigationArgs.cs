@@ -2,7 +2,7 @@
 
 namespace GameSoft.Navigation.Scenes.Game
 {
-    internal class GameNavigationArgs : NavigationArgs
+    public class GameNavigationArgs : NavigationArgs
     {
         private const string GameSceneName = "Game";
 
